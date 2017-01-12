@@ -1,0 +1,64 @@
+/**
+ *  __          __  _    _____ _____  ______ 
+ *  \ \        / / | |  |_   _|  __ \|  ____|
+ *   \ \  /\  / /__| |__  | | | |  | | |__   
+ *    \ \/  \/ / _ \ '_ \ | | | |  | |  __|  
+ *     \  /\  /  __/ |_) || |_| |__| | |____ 
+ *      \/  \/ \___|_.__/_____|_____/|______|
+ *                                                                            
+ *  @author André Ferreira <andrehrf@gmail.com>
+ *  @license MIT
+ */
+
+.wi-font-georgia{
+    font-family: Georgia;
+}
+
+.wi-font-palatino-linotype{
+    font-family: Palatino Linotype;
+}
+
+.wi-font-book-antiqua{
+    font-family: Book Antiqua;
+}
+
+.wi-font-times-new-roman{
+    font-family: Times New Roman;
+}
+
+.wi-font-arial{
+    font-family: Arial;
+}
+
+.wi-font-helvetica{
+    font-family: Helvetica;
+}
+
+.wi-font-arial-black{
+    font-family: Arial Black;
+}
+
+.wi-font-impact{
+    font-family: Impact;
+}
+
+.wi-font-lucida-sans-unicode{
+    font-family: Lucida Sans Unicode;
+}
+
+.wi-font-tahoma{
+    font-family: Tahoma;
+}
+
+.wi-font-verdana{
+    font-family: Verdana;
+}
+
+.wi-font-courier-new{
+    font-family: Courier New;
+}
+
+.wi-font-lucida-console{
+    font-family: Lucida Console;
+}
+
